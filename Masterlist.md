@@ -11,4 +11,4 @@ Cooltext | Browser | No | Free | https://cooltext.com | Limited, novelty texts o
 
 Name | Works on | Needs account | Price | Website | Other notes
 ---|---|---|---|---|---
-iFontMaker | Windows, iPad | Yes | $7 maximum | http://eijtom.com/ifontmaker-win/ | Requires Windows Store or App Store
+iFontMaker | Windows, iPad | Yes | $7 CAD | http://eijtom.com/ifontmaker-win/ | Requires Windows Store or App Store
