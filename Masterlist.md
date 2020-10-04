@@ -12,6 +12,7 @@ Cooltext | Browser | No | Free | https://cooltext.com | Limited, novelty texts o
 Name | Works on | Storefront | Price | Website
 ---|---|---|---|---
 iFontMaker | Windows, iPad | Windows Store or App Store | $7 CAD | http://eijtom.com/ifontmaker-win/
+FontCreator | Windows | High-Logic Website | $49 USD | https://www.high-logic.com/buy-now | Limited cross-program compatibility w/o Pro ver.
 
 # Font Galleries
 
