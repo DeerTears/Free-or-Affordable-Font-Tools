@@ -14,6 +14,7 @@ Name | Works on | Storefront | Price | Website | Other Notes
 ---|---|---|---|---|---
 iFontMaker | Windows, iPad | Windows Store or App Store | $5 USD | http://eijtom.com/ifontmaker-win/ | Windows version slightly stripped, meant for Win 8
 FontCreator | Windows | High-Logic Website | $49 USD | https://www.high-logic.com/buy-now | Limited cross-program compatibility w/o Pro ver
+Typetool | Windows, Mac | Fontlab Website | $48 USD | https://www.fontlab.com/font-editor/typetool/ | Limited grid assistance with outline creation
 
 # Font Galleries
 
