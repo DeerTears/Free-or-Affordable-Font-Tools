@@ -24,8 +24,11 @@ Google Fonts | Yes | Yes | Yes | https://fonts.google.com/ | All fonts downloada
 Fonstruct | Yes | Yes | Yes | https://fontstruct.com/gallery | Most under all rights reserved no redistribution licence
 2ttf | No | Yes | Usually no | http://2ttf.com/gallery | Part of the paid program iFontMaker
 Variable Fonts | Yes | Yes | Variable Only | https://v-fonts.com/ | Primarily an online toy, mostly paid
+SIL Fonts | Yes | Yes | Yes | https://software.sil.org/fonts/ | Free fonts that include a vast variety of non-Latin glyphs
 
 # Special Mentions
 Name | Purpose | Free or Affordable | Website
 ---|---|---|---
 Fontsquirrel | Finding fonts from image | Free | https://www.fontsquirrel.com/matcherator
+IPA Keyboard | Copy IPA symbols to clipboard | Free | https://www.internationalphoneticalphabet.org/html-ipa-keyboard-v1/keyboard/
+Emojityper | Search/copy emojis to clipboard | Free | https://emojityper.com/
