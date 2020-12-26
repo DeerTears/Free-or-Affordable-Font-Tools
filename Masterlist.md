@@ -7,6 +7,7 @@ Fontstruct | Browser | Yes | Free | https://fontstruct.com | Open-source
 Caligraphr | Browser | Yes | Free, Paid Upgrades | https://www.calligraphr.com/en/ | Requires Scanner or PDF Editor
 Cooltext | Browser | No | Free | https://cooltext.com | Limited, novelty texts only
 Fontlab Pad | Win and Mac | Yes | Free | https://www.fontlab.com/fontlab-pad/ | Adds colour options to existing .otf fonts
+Metaflop Modulator | Browser | No | Free | https://www.metaflop.com/modulator | Creates a one-weight font using 1 of 3 metaflop-made variable fonts
 
 # Affordable Tools
 
