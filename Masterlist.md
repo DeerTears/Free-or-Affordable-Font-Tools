@@ -32,5 +32,6 @@ Coding Fonts on CSS Tricks | Yes | Yes | Usually yes | https://coding-fonts.css-
 Name | Purpose | Free or Affordable | Website
 ---|---|---|---
 Fontsquirrel | Finding fonts from image | Free | https://www.fontsquirrel.com/matcherator
+Identifont | Database to find similar fonts, fonts by name, or fonts by image | Free | http://www.identifont.com/index.html
 IPA Keyboard | Copy IPA symbols to clipboard | Free | https://www.internationalphoneticalphabet.org/html-ipa-keyboard-v1/keyboard/
 Emojityper | Search/copy emojis to clipboard | Free | https://emojityper.com/
