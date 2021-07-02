@@ -9,6 +9,7 @@ Cooltext | Browser | No | Free | https://cooltext.com | Limited, novelty texts o
 Fontlab Pad | Win and Mac | Yes | Free | https://www.fontlab.com/fontlab-pad/ | Adds colour options to existing .otf fonts
 Metaflop Modulator | Browser | No | Free | https://www.metaflop.com/modulator | Creates a one-weight font using 1 of 3 metaflop-made variable fonts
 PixelFont | Win, Mac, Linux | No | Free | https://yellowafterlife.itch.io/pixelfont | Small tilemap to .ttf
+Monobit | All | No | Free | https://github.com/robhagemans/monobit | CLI, alpha
 
 # Affordable Tools
 
@@ -28,6 +29,8 @@ Fonstruct | Yes | Yes | Yes | https://fontstruct.com/gallery | Most under all ri
 Variable Fonts | Yes | Yes | Variable Only | https://v-fonts.com/ | Primarily an online toy, mostly paid
 SIL Fonts | Yes | Yes | Yes | https://software.sil.org/fonts/ | Free fonts that include a vast variety of non-Latin glyphs
 Coding Fonts on CSS Tricks | Yes | Yes | Usually yes | https://coding-fonts.css-tricks.com/ | All free to use, but some are paid for commercial use
+Bitmap Fonts | Yes | ??? | No | https://github.com/robhagemans/bitmap-fonts | Collection
+Hoard of Bitfonts | Yes | ??? | No | https://github.com/robhagemans/hoard-of-bitfonts | Collection
 
 # Special Mentions
 Name | Purpose | Free or Affordable | Website
